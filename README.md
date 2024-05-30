@@ -14,27 +14,27 @@ Pentru scrierea rezultatului în fișierul data.out, am creat o funcție care pr
 
 **Structura**
 
-1. *Funcția read_rules(char *str2):*
+1. Funcția read_rules(char *str2):
    - Această funcție citeste regulile din fișierul data.in.
    - Deschide fișierul data.in pentru citire.
    - Citeste prima linie din fișier și stochează regulile în șirul str2.
    - După citire, închide fișierul.
 
-2. *Funcția read_frag(char *str1):*
+2. Funcția read_frag(char *str1):
    - Această funcție citeste fragmentul de cod din fișierul data.in.
    - Deschide fișierul data.in pentru citire.
    - Sare peste prima linie (regulile) și apoi citeste a doua linie din fișier și o stochează în șirul str1.
    - După citire, închide fișierul.
 
-3. *Funcția MinOfTwo(int a, int b):*
+3. Funcția MinOfTwo(int a, int b):
    - Această funcție primește două numere întregi și returnează minimul dintre ele.
    - Nu deschide niciun fișier.
 
-4. *Funcția levenshtein_distance(const char *s1, const char *s2):*
+4. Funcția levenshtein_distance(const char *s1, const char *s2):
    - Această funcție calculează distanța Levenshtein între două șiruri de caractere.
    - Nu deschide niciun fișier.
 
-5. *Funcția write_output(const char *str1, const char *str2, int distance):*
+5. Funcția write_output(const char *str1, const char *str2, int distance):
    - Această funcție scrie rezultatul în fișierul data.out.
    - Deschide fișierul data.out pentru scriere.
    - Scrie rezultatul în fișier și apoi închide fișierul.
