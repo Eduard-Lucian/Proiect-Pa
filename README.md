@@ -50,7 +50,7 @@ Pentru scrierea rezultatului în fișierul data.out, am creat o funcție care pr
 1. *Clonați sau descarcati repository-ul:*
    
 ```sh
- git clone 
+ git clone https://github.com/Eduard-Lucian/Proiect-Pa
 ```
 
 2. *Deschideți Terminalul sau Linia de Comandă:*
