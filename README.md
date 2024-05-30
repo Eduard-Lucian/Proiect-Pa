@@ -1,6 +1,6 @@
 # Proiect-Pa
 
-Acest algoritm calculează distanța Levenshtein între două șiruri de caractere. Distanța Levenshtein reprezintă numărul minim de operații (inserări, ștergeri, sau substituiri) necesare pentru a transforma un șir în altul. Astfel, algoritmul compară două șiruri și determină gradul lor de similaritate sau diferență. Implementarea acestui algoritm implică o serie de iterații și operații pe matrice pentru a găsi distanța minimă. La final, rezultatul este returnat ca un număr întreg reprezentând distanța Levenshtein între cele două șiruri.
+  Acest algoritm calculează distanța Levenshtein între două șiruri de caractere. Distanța Levenshtein reprezintă numărul minim de operații (inserări, ștergeri, sau substituiri) necesare pentru a transforma un șir în altul. Astfel, algoritmul compară două șiruri și determină gradul lor de similaritate sau diferență. Implementarea acestui algoritm implică o serie de iterații și operații pe matrice pentru a găsi distanța minimă. La final, rezultatul este returnat ca un număr întreg reprezentând distanța Levenshtein între cele două șiruri.
 
 **Implementarea algoritmului**
 
