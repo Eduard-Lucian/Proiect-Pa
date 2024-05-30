@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1717000179 source:c:\peoiect_pa_sementrul2\levenshtein.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"levenshtein.h"
+
+1716997620 c:\peoiect_pa_sementrul2\levenshtein.h
+
+1717000157 source:c:\peoiect_pa_sementrul2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1717052063 source:c:\users\lucian\desktop\proiect_pa_sementrul2\levenshtein.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"levenshtein.h"
+
+1716997620 c:\users\lucian\desktop\proiect_pa_sementrul2\levenshtein.h
+
+1717053823 source:c:\users\lucian\desktop\proiect_pa_sementrul2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"levenshtein.h"
+
